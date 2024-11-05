@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocireifo.github.io/BMA/sitemap_index.txt
+Sitemap: https://ocireifo.github.io/SZo/sitemap_index.txt
+Sitemap: https://ocireifo.github.io/Sru/sitemap_index.txt
+Sitemap: https://ocireifo.github.io/eiw/sitemap_index.txt
